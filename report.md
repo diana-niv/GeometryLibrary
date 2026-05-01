@@ -28,7 +28,7 @@ For the math:
 The `Computation` project creates instances of each shape, combines them using the `+` operator, adds more shapes manually, sorts the composite by surface area, searches for a shape with `IsIn()`, accesses it with the indexer, and creates a copy using the copy constructor.
 
 ## Class diagram
-![alt text](class_diagram.png)
+![alt text](./doc/class_diagram.png)
 
 ## Additional Features
 
