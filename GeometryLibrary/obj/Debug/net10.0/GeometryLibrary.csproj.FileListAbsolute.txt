@@ -1,0 +1,11 @@
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\bin\Debug\net10.0\GeometryLibrary.deps.json
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\bin\Debug\net10.0\GeometryLibrary.dll
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\bin\Debug\net10.0\GeometryLibrary.pdb
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\GeometryLibrary.dll
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\refint\GeometryLibrary.dll
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\GeometryLibrary.pdb
+C:\Users\user\Documents\dni\uni\csharp-dev\Assignments\Assignment2_CC241007_Diana_Ivanova\GeometryLibrary\obj\Debug\net10.0\ref\GeometryLibrary.dll
